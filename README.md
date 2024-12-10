@@ -1,6 +1,8 @@
 # Stock Sentiment Analysis on Reddit
 Author: Jeremiah Crowell (jcrowe6)
 
+Presentation link: https://mediaspace.illinois.edu/media/t/1_zrr4eeu4
+
 ## Intro
 In this project I provide code to source a large batch of social media (Reddit) comments, and discover the overall sentiment of the community about a number of topics (companies on the stock market).
 
